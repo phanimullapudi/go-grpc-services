@@ -1,4 +1,4 @@
-//go:generate mockgen -destination=rocket_mocks_test.go -packet=rocket github.com/phanimullapudi/go-grpc-services/inernal/rocket Store
+//go:generate mockgen -destination=rocket_mocks_test.go -package=rocket github.com/phanimullapudi/go-grpc-services/internal/rocket Store
 
 package rocket
 
