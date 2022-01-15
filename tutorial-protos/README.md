@@ -1,2 +1,0 @@
-Go gRPC Services learning
-=========================
